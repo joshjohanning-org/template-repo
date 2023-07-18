@@ -1,0 +1,4 @@
+* @joshjohanning-org/my-team
+.github/workflows/ @joshjohanning-org/build-team
+docs/ @joshjohanning-org/docs-team
+README.md @joshjohanning-org/docs-team
